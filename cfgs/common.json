@@ -1,0 +1,22 @@
+[
+  {
+    "name": "home",
+    "path": "~",
+    "files": [
+      ".xprofile",
+      ".profile",
+      ".asoundrc",
+      ".gitconfig",
+      ".zshrc",
+      ".bashrc",
+      ".vimrc"
+    ]
+  },
+  {
+    "name": "ssh",
+    "path": "~/.ssh",
+    "files": [
+      "config"
+    ]
+  }
+]
