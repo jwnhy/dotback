@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Weixin
+TryExec=/home/john/.local/bin/weixin
+Exec=/home/john/.local/bin/weixin

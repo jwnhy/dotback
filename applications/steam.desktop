@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Steam
+TryExec=/home/john/.local/bin/steam
+Exec=/home/john/.local/bin/steam
