@@ -9,9 +9,10 @@
     ~/.vimrc: nvim/.vimrc
     ~/.config/nvim/init.vim: nvim/init.vim
     ~/.config/nvim/setup.lua: nvim/setup.lua
-    ~/.config/hyprland/hyprland.conf: hyprland.conf
+    ~/.config/hypr/hyprland.conf: hyprland.conf
     ~/.config/waybar/: waybar/
     ~/.config/kitty/kitty.conf: kitty.conf
+    ~/.local/share/applications: applications/
 
 - create:
     - ~/downloads
