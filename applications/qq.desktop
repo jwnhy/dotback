@@ -1,6 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=QQ
-TryExec=/home/john/.local/bin/qq
-Exec=/home/john/.local/bin/qq

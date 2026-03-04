@@ -1,6 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Zoom
-TryExec=/home/john/.local/bin/zoom
-Exec=/home/john/.local/bin/zoom
