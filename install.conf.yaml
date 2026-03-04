@@ -6,17 +6,13 @@
 - clean: ['~']
 
 - link:
-    ~/.vimrc: nvim/.vimrc
-    ~/.config/nvim/init.vim: nvim/init.vim
-    ~/.config/nvim/setup.lua: nvim/setup.lua
-    ~/.config/hypr/hyprland.conf: hyprland.conf
-    ~/.config/waybar/: waybar/
-    ~/.config/kitty/kitty.conf: kitty.conf
-    ~/.local/share/applications: applications/
+    ~/.local/bin/ec: ec
+    ~/.config/nvim/lua/plugins/vimtex.lua: vimtex.lua
+  
 
 - create:
-    - ~/downloads
-    - ~/.config/hyprland
+  - ~/.local/bin
+  - ~/.config/nvim/lua/plugins
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
